@@ -51,10 +51,10 @@ jupyter notebook ML_classification_project.ipynb
 
 ## Key Results
 
-- **Baseline F1-Score:** ~0.00 (naive approach fails)
-- **Best Model:** Random Forest (after hyperparameter tuning)
-- **Test F1-Score:** ~0.60-0.75
-- **ROC-AUC:** ~0.75-0.85
+- **Best Model:** Decision Tree (Stratified K-Fold CV F1=0.9110)
+- **Test Accuracy:** 94.74%
+- **Test F1-Score:** 0.9412
+- **ROC-AUC:** 0.9545
 
 ## Deliverables (Course Requirements)
 
