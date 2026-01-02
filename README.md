@@ -62,7 +62,6 @@ jupyter notebook ML_classification_project.ipynb
 ✅ README.md with clear instructions  
 ✅ Real dataset (CSV file)  
 ✅ All code, analysis, and discussion in one notebook  
-✅ Ready for GitHub repository  
 
 ## Technologies
 
